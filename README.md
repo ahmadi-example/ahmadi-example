@@ -1,5 +1,9 @@
 <h1>I'm Hassan Ahmadi</h1>
 
+<p>
+  I am a software developer. I am interested in computers and cool projects. More complete information can be seen below :
+</p>
+
 ```javascript
   const person_information = {
     firstname:'Hassan',
@@ -22,3 +26,8 @@
 <p style='text-align:center;'>
 <img src="https://github.com/ahmadi-example/ahmadi-example/blob/main/skills.png?raw=true" alt="Hassan Ahmadi's skills" title="Hassan Ahmadi's skills"/>
 </p>
+
+
+
+
+
