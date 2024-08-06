@@ -1,7 +1,7 @@
 <h1>I'm Hassan Ahmadi</h1>
 
 ```javascript
-  let person = {
+  const person_information = {
     firstname:'Hassan',
     lastname:'Ahmadi',
     fullname:'Hassan Ahmadi',
@@ -15,7 +15,7 @@
     age:21,
     country:'Afghanistan',
     location:'Iran - Tehran',
-    status:'learning'
+    status:'learning',
   }
 ```
 
