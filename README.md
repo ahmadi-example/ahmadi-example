@@ -9,11 +9,13 @@
       persion:100,
       english:35
     },
-    languages:['Python','Javascript','Php','Html','Css']
+    languages:['Python','Javascript','Php','Html','Css'],
     framework:['Django','Pyqt5','Kivy','ReactJs','Angular','VueJs','Bootstrap','Tailwind CSS'],
     job:'SoftWare Developer',
     age:21,
     country:'Afghanistan',
+    location:'Iran - Tehran',
+    status:'learning'
   }
 ```
 
